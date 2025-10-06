@@ -35,10 +35,11 @@ Insight: Classic pizzas are not only revenue drivers but also volume leaders.
 
 5. Best Sellers Analysis
 Top 5 Best Sellers (High Volume): Includes The Classic Deluxe Pizza, The Barbecue Chicken Pizza, The Hawaiian Pizza, The Pepperoni Pizza, and The Thai Chicken Pizza.
-Bottom 5 Sellers (Low Volume): Includes The Soppressata Pizza, The Spinach Supreme Pizza, The Calabrese Pizza, The Mediterranean Pizza, and The Brie Carre Pizza.
+
+6. Bottom 5 Sellers (Low Volume): Includes The Soppressata Pizza, The Spinach Supreme Pizza, The Calabrese Pizza, The Mediterranean Pizza, and The Brie Carre Pizza.
 Insight: Classic and familiar flavors perform best, while niche or premium options lag behind.
 
-6. Insights & Recommendations
+7. Insights & Recommendations
 Focus Marketing on Peak Hours: Promotions should be targeted around lunch and dinner to maximize sales.
 Bundle Offers on Large Pizzas: Since Large pizzas dominate sales, combo deals can further increase order value.
      Promote Underperforming Flavors: Niche pizzas could be                                           marketed more aggressively or re-evaluated for menu relevance.
