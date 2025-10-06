@@ -46,5 +46,5 @@ Balanced Menu Strategy: Since all categories contribute fairly equally, maintain
 Customer Retention: Average order value is stable but relatively low; loyalty discounts or upselling sides/drinks could increase revenue per order.
 
 
-<img width="1725" height="972" alt="Screenshot 2025-10-06 161915" src="https://github.com/user-attachments/assets/8f8d2df9-dd0a-45a7-b0dc-9b18225113a2" />
 
+<img width="1898" height="1066" alt="Screenshot 2025-10-06 170907" src="https://github.com/user-attachments/assets/d44e4d40-76ac-41eb-8447-843c181d62d6" />
