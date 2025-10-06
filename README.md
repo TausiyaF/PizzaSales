@@ -45,3 +45,6 @@ Bundle Offers on Large Pizzas: Since Large pizzas dominate sales, combo deals ca
 Balanced Menu Strategy: Since all categories contribute fairly equally, maintaining variety is important.
 Customer Retention: Average order value is stable but relatively low; loyalty discounts or upselling sides/drinks could increase revenue per order.
 
+
+<img width="1725" height="972" alt="Screenshot 2025-10-06 161915" src="https://github.com/user-attachments/assets/8f8d2df9-dd0a-45a7-b0dc-9b18225113a2" />
+
