@@ -1,0 +1,20 @@
+-- Total Revenue
+Total Revenue = SUM(pizza_sales[total_price])
+
+-- Total Orders
+Total Orders = DISTINCTCOUNT(pizza_sales[order_id])
+
+-- Total Pizzas Sold
+Total Pizzas Sold = SUM(pizza_sales[quantity])
+
+-- Average Order Value (AOV)
+Average Order Value = DIVIDE([Total Revenue], [Total Orders], 0)
+
+-- Average Pizza per Order
+Average Pizza per Order = DIVIDE([Total Pizzas Sold], [Total Orders], 0)
+
+-- Extract Hour from order_time
+Hour = HOUR(pizza_sales[order_time])
+
+-- Create Hour Label for display (08:00, 09:00, etc.)
+HourLabel = FORMAT(pizza_sales[order_time], "HH\:00")
